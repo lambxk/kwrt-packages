@@ -1,3 +1,15 @@
-config dogcom 'config'
-    option enabled '1'
-    option version 'dhcp'
+server = '192.168.255.249'
+username = '23212030511'
+password = 'yang3996.'
+CONTROLCHECKSTATUS = '\x20'
+ADAPTERNUM = '\x07'
+host_ip = '172.16.134.188'
+IPDOG = '\x01'
+host_name = 'fuyumi'
+PRIMARY_DNS = '10.200.4.1'
+dhcp_server = '10.200.4.2'
+AUTH_VERSION = '\x31\x00'
+mac = 0x001c8341c7d8
+host_os = 'Windows 10'
+KEEP_ALIVE_VERSION = '\xdc\x02'
+ror_version = True
